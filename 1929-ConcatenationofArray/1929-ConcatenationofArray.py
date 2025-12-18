@@ -1,8 +1,4 @@
-# Last updated: 12/17/2025, 5:27:33 PM
+# Last updated: 12/18/2025, 5:59:46 AM
 1class Solution:
-2    def getConcatenation(self, nums: List[int]) -> List[int]:
-3        nums = 2*nums
-4        return nums
-5    
-6
-7        
+2    def shuffle(self, nums: List[int], n: int) -> List[int]:
+3        return( [val for pair in zip(nums[:n], nums[n:]) for val in pair])
