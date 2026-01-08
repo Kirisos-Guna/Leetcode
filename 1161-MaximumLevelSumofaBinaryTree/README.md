@@ -11,7 +11,7 @@ Explanation:
 Level 1 sum = 1.
 Level 2 sum = 7 + 0 = 7.
 Level 3 sum = 7 + -8 = -1.
-So we return the level with the maximum sum which is level 2.
+So we return the level with the maximum sum, which is level 2.
 
 
 Example 2:
