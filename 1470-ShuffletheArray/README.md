@@ -24,8 +24,6 @@ Output: [1,2,1,2]
 
  
 Constraints:
-
-
 	1 <= n <= 500
 	nums.length == 2n
 	1 <= nums[i] <= 10^3
