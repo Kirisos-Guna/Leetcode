@@ -9,7 +9,7 @@ Explanation:
 21 has 4 divisors: 1, 3, 7, 21
 4 has 3 divisors: 1, 2, 4
 7 has 2 divisors: 1, 7
-The answer is the sum of divisors of 21 only.
+The answer is the sum of the divisors of 21 only.
 
 
 Example 2:
@@ -26,8 +26,6 @@ Output: 0
 
  
 Constraints:
-
-
 	1 <= nums.length <= 104
 	1 <= nums[i] <= 105
 
